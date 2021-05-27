@@ -1,0 +1,1 @@
+/home/shay/rustlings/target/release/rustlings: /home/shay/rustlings/src/exercise.rs /home/shay/rustlings/src/main.rs /home/shay/rustlings/src/run.rs /home/shay/rustlings/src/ui.rs /home/shay/rustlings/src/verify.rs
